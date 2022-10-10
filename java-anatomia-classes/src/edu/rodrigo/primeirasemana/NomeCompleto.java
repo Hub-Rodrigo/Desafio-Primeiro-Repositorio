@@ -1,3 +1,4 @@
+package edu.rodrigo.primeirasemana;
 public class NomeCompleto {
     public static void main (String[] args){
     
